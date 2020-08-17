@@ -6,7 +6,7 @@ A [Metalsmith](http://www.metalsmith.io/) plugin that shows related documents fo
 [![Dependencies](http://img.shields.io/david/radekstepan/metalsmith-related.svg?style=flat)](https://david-dm.org/radekstepan/metalsmith-related)
 [![License](http://img.shields.io/badge/license-AGPL--3.0-red.svg?style=flat)](LICENSE)
 
-*Uses [Natural](https://github.com/NaturalNode/natural#natural) v0.5.1*
+*Uses [Natural](https://github.com/NaturalNode/natural#natural) v0.6*
 
 ## Use
 
